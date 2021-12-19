@@ -21,7 +21,8 @@ Advance scenario where parameterization has been used (Scenario Outline examples
   
   .![image](https://user-images.githubusercontent.com/17289871/146671033-5f5e55cf-e603-4afd-9615-0a7ba917b763.png)
 #  Cucumber Reports Screenshots
-  ![image](https://user-images.githubusercontent.com/17289871/146671118-7d5c478d-21e8-4aaa-9de5-0f151973c44d.png)
+ ![image](https://user-images.githubusercontent.com/17289871/146671404-a95d2a69-86f0-4a41-b6bb-cee09692f720.png)
+
   ![image](https://user-images.githubusercontent.com/17289871/146671332-228302e8-125d-41ab-abb0-965bc0aa8f95.png)
   ![image](https://user-images.githubusercontent.com/17289871/146671348-6f516083-b8c2-4225-9bf9-789809757dc5.png)
 
