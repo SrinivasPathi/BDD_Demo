@@ -8,9 +8,10 @@ Advance scenario where parameterization has been used (Scenario Outline examples
 # Directory Structure
 ![image](https://user-images.githubusercontent.com/17289871/146670742-90556272-5716-46d4-bfda-8cdbdac2e92f.png)
 # Steps to run at your system:
-Clone the repository using "git clone "
- .Change "Username" and "Password" in both scenarios in feature file
- .Run "mvn clean verify"
- .Run "mvn verify -DskipTests"
+  Clone the repository using "git clone "
+  .Change "Username" and "Password" in both scenarios in feature file
+
+  .Run "mvn clean verify"
+  .Run "mvn verify -DskipTests"
 # Cucumber Reports: net.masterthought - This will generate cucumber report
   Cucumber Advance (folder - "target\cucumber-report-html\cucumber-html-reports"), file - "feature-overview.html"
