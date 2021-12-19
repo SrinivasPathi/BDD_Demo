@@ -15,5 +15,8 @@ Advance scenario where parameterization has been used (Scenario Outline examples
     . Run "mvn clean verify"
       
     . Run "mvn verify -DskipTests"
-# Cucumber Reports: net.masterthought - This will generate cucumber report
+# Cucumber Reports: net.masterthought - This will generate cucumber reports
   Cucumber Advance (folder - "target\cucumber-report-html\cucumber-html-reports"), file - "feature-overview.html"
+# Folder for the above reports
+  
+  .![image](https://user-images.githubusercontent.com/17289871/146671033-5f5e55cf-e603-4afd-9615-0a7ba917b763.png)
