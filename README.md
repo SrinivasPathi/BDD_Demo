@@ -10,6 +10,8 @@ Advance scenario where parameterization has been used (Scenario Outline examples
 # Steps to run at your system:
   Clone the repository using "git clone "
   
+    . Open commnd line and Navigate the project folder
+    
     . Run "mvn clean verify"
       
     . Run "mvn verify -DskipTests"
