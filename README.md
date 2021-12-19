@@ -9,6 +9,7 @@ Advance scenario where parameterization has been used (Scenario Outline examples
 ![image](https://user-images.githubusercontent.com/17289871/146670742-90556272-5716-46d4-bfda-8cdbdac2e92f.png)
 # Steps to run at your system:
   Clone the repository using "git clone "
+  
     . Run "mvn clean verify"
       
     . Run "mvn verify -DskipTests"
